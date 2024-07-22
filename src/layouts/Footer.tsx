@@ -1,4 +1,3 @@
-import React from "react";
 import Order from "../features/Order";
 
 export default function Footer() {

@@ -1,6 +1,4 @@
-import { useState } from "react";
 import "./index.css";
-import Pizza from "./pages/Pizza";
 import Header from "./layouts/Header";
 import Menu from "./features/Menu";
 import Footer from "./layouts/Footer";
